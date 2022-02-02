@@ -1,0 +1,9 @@
+.h1 {
+  font-family: "Source Serif 4", sans-serif;
+  text-align: center;
+  color: #fbfbfb;
+}
+.col {
+  max-height: 20px;
+  align-self: center;
+}
